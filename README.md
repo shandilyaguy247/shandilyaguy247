@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshit Shandilya
 - 👀 I’m interested in ... Competitive Programming (C++)
-- 🌱 I’m currently learning ... Competitive Programming, Cloud Certifications, Data Structures, Machine Learning
+- 🌱 I’m currently learning ... Programming, Cloud Certifications, Data Structures, Machine Learning
 - 💞️ I’m looking to collaborate on ... Projects involving Cloud architectures 
 - 📫 How to reach me ... https://www.linkedin.com/in/harshitshandilya/
