@@ -7,6 +7,5 @@
 
 - I'm a Graduate Student pursuing my MS in Electrical and Computer Engineering - Specialization in Computer Engineering
 - 👀 I’m interested in ... Data Structures, Algorithms, APIs and C++
-- 🌱 I’m currently learning ... Programming, Optimization and Competitive Coding
-- 💞️ I’m looking to collaborate on ... Open Source Projects
+- 🌱 I’m currently learning ... Programming, Optimization, Software Failure Analysis and Competitive Coding
 - 📫 How to reach me ... https://www.linkedin.com/in/harshitshandilya/
