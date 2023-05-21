@@ -5,7 +5,7 @@
 
 ## About Me:
 
-- I'm a Graduate Student pursuing my MS in Electrical and Computer Engineering - Specialization in Computer Engineering
-- 👀 I’m interested in ... Data Structures, Algorithms, APIs and C++
-- 🌱 I’m currently learning ... Programming, Optimization, Software Failure Analysis and Competitive Coding
+- I'm a Software Engineer at Cisco
+- 👀 I’m interested in ... Data Structures, Algorithms, Python, Go, Cloud Networking and C++
+- 🌱 I’m currently learning ... Programming, Optimization, Backend Development, Software Failure Analysis and Competitive Coding
 - 📫 How to reach me ... https://www.linkedin.com/in/harshitshandilya/
