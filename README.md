@@ -6,6 +6,6 @@
 ## About Me:
 
 - I'm a Software Engineer at Cisco
-- 👀 I’m interested in ... Data Structures, Algorithms, Python, Go, Cloud Networking and C++
-- 🌱 I’m currently learning ... Programming, Optimization, Backend Development, Software Failure Analysis and Competitive Coding
+- 👀 I’m interested in ... Data Structures, Algorithms, Python, Go, Cloud Networking, AI and C++
+- 🌱 I’m currently learning ... Programming, Optimization, Backend Development, Software Failure Analysis, AI and Competitive Coding
 - 📫 How to reach me ... https://www.linkedin.com/in/harshitshandilya/
