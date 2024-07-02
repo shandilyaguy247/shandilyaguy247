@@ -16,7 +16,7 @@ I'm Harshit Shandilya, a passionate Software Engineer currently working at Cisco
 I'm fascinated by a wide range of topics, including:
 
 - Data Structures and Algorithms: Building efficient and scalable solutions.
-- Programming Languages: Proficient in Python and C++.
+- Programming Languages: Proficient in Python C/C++ and Java.
 - Cloud Networking: Exploring the intricacies of cloud-based solutions.
 - Artificial Intelligence: Delving into AI applications and machine learning.
 - Competitive Coding: Sharpening problem-solving skills through coding challenges.
