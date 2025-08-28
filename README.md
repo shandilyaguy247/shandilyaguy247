@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm Harshit Shandilya, a passionate Software Engineer currently working at Cisco. With a background in Electrical and Computer Engineering, I'm enthusiastic about exploring various aspects of technology and programming.
+I'm Harshit Shandilya, a passionate Software Engineer. With a background in Electrical and Computer Engineering, I'm enthusiastic about exploring various aspects of technology and programming.
 
 ## 🔍 Interests
 
