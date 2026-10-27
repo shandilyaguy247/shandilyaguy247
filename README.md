@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Harshit Shandilya** (`@shandilyaio`), a Software Engineer specializing in **Site Reliability Engineering (SRE)** at **Google DeepMind** in Mountain View, California, where I focus on large-scale network capacity, traffic placement, and ML/AI serving infrastructure.
+I'm **Harshit Shandilya**, a Software Engineer specializing in **Site Reliability Engineering (SRE)** at **Google DeepMind** in Mountain View, California, where I focus on large-scale network capacity, traffic placement, and ML/AI serving infrastructure.
 
 Previously, I worked as a Senior Software Engineer at **RELX** and as a Software Engineer at **Cisco** in San Jose, CA. I hold a Master of Science (M.S.) in Electrical and Computer Engineering from **Purdue University**, completed robotics and additive manufacturing research at the **Karlsruhe Institute of Technology (KIT)** in Germany, and earned my B.Tech in Electronics and Communication Engineering from **Vellore Institute of Technology (VIT)**.
 
