@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/harshitshandilya/">LinkedIn</a> •
   <a href="https://www.researchgate.net/profile/Harshit-Shandilya">ResearchGate</a> •
-  <a href="https://github.com/shandilyaio">GitHub (@shandilyaio)</a>
+  <a href="https://github.com/shandilyaguy247">GitHub (@shandilyaguy247)</a>
 </p>
 
 ---
